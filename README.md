@@ -11,3 +11,8 @@ marketplace with Springboot
     - entity
 - web
     - controller
+
+
+**ER-DataBase** - [Schema](schema.sql) - [data](data.sql)
+![img.png](img.png)
+
